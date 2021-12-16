@@ -4,7 +4,7 @@
 Это одностраничный сайт о путешствиях по России, сделанный с использованием CSS+HTML, по технологии БЭМ.
 
 ### Готовый проект
-Просмотреть проект вы можете [здесь](https://vyacheslavshtyrlin.github.io/russian_travel/).
+Просмотреть проект вы можете [здесь](https://vyacheslavshtyrlin.github.io/russian-travel/).
 
 
 **Figma**
