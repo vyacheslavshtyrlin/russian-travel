@@ -7,3 +7,8 @@
   color: #ffff;
   /* identical to box height, or 122% */
 }
+
+
+.place__link:hover {
+  opacity: 0.8;
+}

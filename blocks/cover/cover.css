@@ -1,7 +1,7 @@
 .cover {
   position: relative;
   min-height: 740px;
-  margin: 0 48px 92px;
+  margin: 0 0 92px;
   background-image: url(../../images/__background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
