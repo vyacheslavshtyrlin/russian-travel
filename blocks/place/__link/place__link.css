@@ -5,6 +5,8 @@
   line-height: 122%;
   text-decoration: underline;
   color: #ffff;
+  width: max-content;
+  margin-top: 12px;
   /* identical to box height, or 122% */
 }
 

@@ -4,6 +4,8 @@
   letter-spacing: 2px;
   color: #AAAAAA;
   margin: 0 0 12px;
+  text-transform: uppercase;
+  margin: 0
 }
 
 @media screen and (max-width: 1140px) {
