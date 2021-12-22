@@ -5,24 +5,23 @@
   font-style: normal;
   font-weight: normal;
   font-size: 30px;
-  line-height: 1.2;
+  line-height: 36px;
   text-rendering: optimizeLegibility;
 }
 
-@media screen and (max-width: 986px) {
+@media screen and (max-width: 1140px) {
   .lead__subtitle {
-    font-size: 30px;
-    line-height: 36px;
-
+    margin-bottom: 56px;
   }
 }
+
 
 @media screen and (max-width: 586px) {
   .lead__subtitle {
     max-width: 288px;
     font-size: 16px;
     line-height: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
   }
 
 }
