@@ -6,7 +6,6 @@
   font-size: 96px;
   line-height: 100px;
   text-rendering: optimizeLegibility;
-  max-height: 200px;
 }
 
 @media screen and (max-width: 586px){
