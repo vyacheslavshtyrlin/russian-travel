@@ -9,7 +9,7 @@
   line-height: 14px;
   letter-spacing: 1.5px;
   text-transform: uppercase;
-  text-rendering: optimizeLegibility
+  text-rendering: optimizeLegibility;
 }
 
 @media screen and (max-width: 1140px) {
